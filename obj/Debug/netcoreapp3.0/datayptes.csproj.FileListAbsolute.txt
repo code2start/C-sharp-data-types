@@ -1,0 +1,11 @@
+C:\csharp\en\datayptes\bin\Debug\netcoreapp3.0\datayptes.exe
+C:\csharp\en\datayptes\bin\Debug\netcoreapp3.0\datayptes.deps.json
+C:\csharp\en\datayptes\bin\Debug\netcoreapp3.0\datayptes.runtimeconfig.json
+C:\csharp\en\datayptes\bin\Debug\netcoreapp3.0\datayptes.runtimeconfig.dev.json
+C:\csharp\en\datayptes\bin\Debug\netcoreapp3.0\datayptes.dll
+C:\csharp\en\datayptes\bin\Debug\netcoreapp3.0\datayptes.pdb
+C:\csharp\en\datayptes\obj\Debug\netcoreapp3.0\datayptes.csprojAssemblyReference.cache
+C:\csharp\en\datayptes\obj\Debug\netcoreapp3.0\datayptes.AssemblyInfoInputs.cache
+C:\csharp\en\datayptes\obj\Debug\netcoreapp3.0\datayptes.AssemblyInfo.cs
+C:\csharp\en\datayptes\obj\Debug\netcoreapp3.0\datayptes.dll
+C:\csharp\en\datayptes\obj\Debug\netcoreapp3.0\datayptes.pdb
